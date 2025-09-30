@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # STM32N657 Camera Integration for microT-Kernel 3.0
 
 ## 📸 プロジェクト概要
@@ -402,3 +403,6 @@ Pipe1 (メインパイプ):
 ---
 
 **Happy Coding! 🚀📸**
+=======
+# stm32n6570
+>>>>>>> 6d67783b333602195bb9e73dbb85c7d441bf319c
