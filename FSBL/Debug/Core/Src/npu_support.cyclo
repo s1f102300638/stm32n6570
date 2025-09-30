@@ -1,0 +1,9 @@
+../Core/Src/npu_support.c:57:9:LL_Switch_Init	2
+../Core/Src/npu_support.c:88:9:LL_ATON_LIB_Concat	4
+../Core/Src/npu_support.c:132:9:LL_ATON_LIB_DMA_DepthToSpace	9
+../Core/Src/npu_support.c:189:9:LL_ATON_LIB_Pad	6
+../Core/Src/npu_support.c:250:9:ll_sw_forward_arith	18
+../Core/Src/npu_support.c:346:9:ll_sw_forward_pool	15
+../Core/Src/npu_support.c:426:6:NPU_Support_Init	1
+../Core/Src/npu_support.c:440:13:NPU_Support_GetVersion	1
+../Core/Src/npu_support.c:449:6:NPU_Support_IsInitialized	1

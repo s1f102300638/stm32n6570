@@ -1,0 +1,14 @@
+../Application/yolo_deer_detection.c:40:9:YOLO_Init	80	static
+../Application/yolo_deer_detection.c:83:6:YOLO_DeInit	8	static
+../Application/yolo_deer_detection.c:94:8:YOLO_QuantizeFloat	0	static
+../Application/yolo_deer_detection.c:108:7:YOLO_DequantizeInt8	0	static
+../Application/yolo_deer_detection.c:117:9:YOLO_PreprocessImage	72	static
+../Application/yolo_deer_detection.c:191:9:YOLO_RunInference	72	static
+../Application/yolo_deer_detection.c:233:7:YOLO_Sigmoid	8	static
+../Application/yolo_deer_detection.c:243:6:YOLO_DecodeOutput	64	static
+../Application/yolo_deer_detection.c:293:7:YOLO_IoU	0	static
+../Application/yolo_deer_detection.c:328:6:YOLO_NMS	64	static
+../Application/yolo_deer_detection.c:373:9:YOLO_PostProcess	24	static
+../Application/yolo_deer_detection.c:401:6:YOLO_DrawDetections	88	static
+../Application/yolo_deer_detection.c:476:6:YOLO_PrintDetection	40	static
+../Application/yolo_deer_detection.c:487:6:YOLO_PrintStats	8	static

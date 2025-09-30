@@ -1,0 +1,6 @@
+../Core/Src/cache_operations.c:26:5:mcu_cache_clean_range	3
+../Core/Src/cache_operations.c:65:5:mcu_cache_invalidate_range	1
+../Core/Src/cache_operations.c:100:5:mcu_cache_enable	1
+../Core/Src/cache_operations.c:126:6:npu_cache_init	1
+../Core/Src/cache_operations.c:137:6:npu_cache_enable	1
+../Core/Src/cache_operations.c:150:6:npu_cache_clean_invalidate_range	3

@@ -1,0 +1,7 @@
+../Core/Src/syscalls.c:13:27:_close	16	static
+../Core/Src/syscalls.c:18:27:_lseek	24	static
+../Core/Src/syscalls.c:23:27:_read	24	static
+../Core/Src/syscalls.c:28:27:_write	32	static
+../Core/Src/syscalls.c:37:27:_fstat	16	static
+../Core/Src/syscalls.c:43:27:_isatty	16	static
+../Core/Src/syscalls.c:48:29:_sbrk	24	static

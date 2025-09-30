@@ -1,0 +1,6 @@
+# Makefile patch for STM32N6 YOLO Project 
+# This file ensures yolo_deer.c is excluded 
+ 
+# Define stub mode for compilation 
+CFLAGS += -DSTUB_MODE=1 
+ 

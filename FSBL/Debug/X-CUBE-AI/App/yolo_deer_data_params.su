@@ -1,0 +1,2 @@
+../X-CUBE-AI/App/yolo_deer_data_params.c:43:13:ai_yolo_deer_data_weights_get	0	static
+../X-CUBE-AI/App/yolo_deer_data_params.c:49:7:ai_yolo_deer_data_activations_get	0	static

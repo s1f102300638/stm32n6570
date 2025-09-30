@@ -1,0 +1,14 @@
+C:/Users/iniad/STM32CubeIDE/workspace_2/mtk3bsp2_stm32n657/FSBL/Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_bus.h:1407:22:LL_AHB4_GRP1_EnableClock	8	static
+../Core/Src/stm32n6xx_hal_msp.c:63:6:HAL_MspInit	8	static
+../Core/Src/stm32n6xx_hal_msp.c:93:6:HAL_ADC_MspInit	448	static
+../Core/Src/stm32n6xx_hal_msp.c:193:6:HAL_ADC_MspDeInit	8	static
+../Core/Src/stm32n6xx_hal_msp.c:253:6:HAL_I2C_MspInit	448	static
+../Core/Src/stm32n6xx_hal_msp.c:340:6:HAL_I2C_MspDeInit	8	static
+../Core/Src/stm32n6xx_hal_msp.c:391:6:HAL_MDF_MspInit	432	static
+../Core/Src/stm32n6xx_hal_msp.c:440:6:HAL_MDF_MspDeInit	0	static
+../Core/Src/stm32n6xx_hal_msp.c:470:6:HAL_UART_MspInit	432	static
+../Core/Src/stm32n6xx_hal_msp.c:518:6:HAL_UART_MspDeInit	0	static
+../Core/Src/stm32n6xx_hal_msp.c:547:6:HAL_XSPI_MspInit	440	static
+../Core/Src/stm32n6xx_hal_msp.c:607:6:HAL_XSPI_MspDeInit	0	static
+../Core/Src/stm32n6xx_hal_msp.c:644:6:HAL_SAI_MspInit	456	static
+../Core/Src/stm32n6xx_hal_msp.c:722:6:HAL_SAI_MspDeInit	8	static
